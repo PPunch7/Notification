@@ -1,0 +1,9 @@
+E:\VB\AlertNotification\AlertNotification\AlertNotification\bin\Debug\AlertNotification.exe.config
+E:\VB\AlertNotification\AlertNotification\AlertNotification\bin\Debug\AlertNotification.exe
+E:\VB\AlertNotification\AlertNotification\AlertNotification\bin\Debug\AlertNotification.pdb
+E:\VB\AlertNotification\AlertNotification\AlertNotification\obj\Debug\AlertNotification.csproj.CoreCompileInputs.cache
+E:\VB\AlertNotification\AlertNotification\AlertNotification\obj\Debug\AlertNotification.exe
+E:\VB\AlertNotification\AlertNotification\AlertNotification\obj\Debug\AlertNotification.pdb
+E:\VB\AlertNotification\AlertNotification\AlertNotification\obj\Debug\AlertNotification.ProjectInstaller.resources
+E:\VB\AlertNotification\AlertNotification\AlertNotification\obj\Debug\AlertNotification.csproj.GenerateResource.cache
+E:\VB\AlertNotification\AlertNotification\AlertNotification\obj\Debug\AlertNotification.csproj.AssemblyReference.cache
