@@ -28,9 +28,7 @@ namespace AlertNotification
 
         private ConnDB()
         {
-            //this.connection_string = @"Data Source=172.16.0.3;Initial Catalog=BKK_Telemetry;User ID=sa;Password=xyPPk";
-            this.connection_string = @"Data Source=192.168.1.20;Initial Catalog=BMA_FEWS;User ID=sa;Password=[k'dvd2021";
-            //this.connection_string = @"Data Source=192.168.4.50;Initial Catalog=BMA_FEWS;User ID=sa;Password=[k'dvd2021";
+            this.connection_string = @"Data Source=[sorce];Initial Catalog=[db_name];User ID=[user];Password=[password]";
             cnn = new SqlConnection(connection_string);
         }
 
